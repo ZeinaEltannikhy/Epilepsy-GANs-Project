@@ -42,8 +42,6 @@ This project is licensed under the MIT License.
 
 ### 📄 `.gitignore`
 
-Save this as `.gitignore` inside your project folder:
-
 ```gitignore
 # Python
 __pycache__/
