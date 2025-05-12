@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment files
+.env
+*.env
+
+# macOS system files
+.DS_Store
+
+# Data & Results
+data/
+results/
+*.csv
+*.tsv
+*.h5
+*.log
+*.pth
+*.pt
+
+# Virtual Environment
+venv/
+env/
+*.egg-info/
+
+# PyTorch Lightning or TensorBoard logs
+lightning_logs/
+runs/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+*.swp
